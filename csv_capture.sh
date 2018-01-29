@@ -1,5 +1,6 @@
 #!/bin/sh
 
+#### CR+LF Change LF ####
 # echo "csv_取り込み"
 
 # $0	スクリプト名
